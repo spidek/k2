@@ -4,7 +4,7 @@ using namespace std;
 const unsigned stala = 1000;
 
 int main(int argc, char **argv) {
-  cout<<"Imie Nazwisko, grupa(sepcjalnosc), nr. indeksu"<<endl;
+  cout<<"Karolina Slocinska, grupa(ABiBD), 101575"<<endl;
   return 0;
 }
 
