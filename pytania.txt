@@ -4,6 +4,6 @@
 2) Jaki uzytkownik jest odpowiedzialny za wprowadzenie tego wlasnie drugiego pytania?
    Jakim poleceniem mozna to sprawdzic?
 
-Odpowiedzi:
-==============================================================================
+odp 1: const float stala=2,71
+odp 2: hello1
 
